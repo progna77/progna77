@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-About me: 
+
 I am Progna Paramita Ghosh, currently pursuing a degree in Computer Science & Engineering at BRAC University. I am interested in applying Artificial Intelligence and Machine Learning to Cybersecurity to build smarter, more accessible, and efficient security solutions. My goal is to create systems that minimize user effort while providing robust protection against evolving cyber threats.
 
 Beyond coding, I have a strong interest in design and enjoy exploring how Human-Computer Interaction (HCI) principles can be integrated into cybersecurity solutions to create experiences that are both secure and user-friendly. I am particularly interested in projects that bridge the gap between security, usability, and emerging technologies.
